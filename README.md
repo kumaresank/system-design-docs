@@ -12,6 +12,7 @@
 
 ![Authentication](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d1e960d-1777-4aca-819f-96d83c5b46f1_1554x1600.png)
 
+![Load Balancer vs API Gateway vs Backend-For Frontend](https://media.licdn.com/dms/image/v2/D5622AQHuf4mXu3BN7Q/feedshare-shrink_800/B56ZRUFaVzGQAg-/0/1736577495477?e=1740009600&v=beta&t=ndkCxsm29ZUYujJcNLYKivZwhPqDTsaYxfrBz9p8Bhw)
 
 
 
