@@ -1,1 +1,2 @@
-https://dev.to/somadevtoo/19-microservices-patterns-for-system-design-interviews-3o39
+- https://dev.to/somadevtoo/19-microservices-patterns-for-system-design-interviews-3o39
+- https://newsletter.systemdesigncodex.com/
