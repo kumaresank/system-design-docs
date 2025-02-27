@@ -24,6 +24,9 @@
 
 ![Cap Theorem](https://media.licdn.com/dms/image/v2/D5622AQEc_3D377Ddpg/feedshare-shrink_800/B56ZREY_4fGQAg-/0/1736314193387?e=1740009600&v=beta&t=gqvwjTdvikj7qc15-3yiJuE_jC3_Vbi-qPvDkNkA_U8)
 
+![Docker Best Practices](https://media.licdn.com/dms/image/v2/D4E10AQHI1LhsiQ09nQ/image-shrink_1280/B4EZVDJb10H0AM-/0/1740588306126?e=1741237200&v=beta&t=UPDeNdYMrSN_ZIWCQhK2MjznztjT8VOkhKqNxGZtjTc)
+
+
 
 
 
